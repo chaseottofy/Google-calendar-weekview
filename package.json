@@ -1,0 +1,22 @@
+{
+  "name": "google-calendar-weekview",
+  "version": "1.0.0",
+  "description": "google-calendar-weekview",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaseottofy/Google-calendar-weekview.git"
+  },
+  "author": "Chase Ottofy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaseottofy/Google-calendar-weekview/issues"
+  },
+  "homepage": "https://github.com/chaseottofy/Google-calendar-weekview#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
